@@ -11,6 +11,7 @@ namespace GitUpload_Sample
         static void Main(string[] args)
         {
             Console.WriteLine("Sample Git Upload");
+            Console.WriteLine("test");
             Console.ReadLine();
         }
     }
