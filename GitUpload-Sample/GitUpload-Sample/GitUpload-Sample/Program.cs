@@ -13,6 +13,7 @@ namespace GitUpload_Sample
             Console.WriteLine("Sample Git Upload");
             Console.WriteLine("Sample Git Upload2");
             Console.WriteLine("Sample Git Upload3");
+            Console.WriteLine("Sample Git Upload4");
             Console.ReadLine();
         }
     }
