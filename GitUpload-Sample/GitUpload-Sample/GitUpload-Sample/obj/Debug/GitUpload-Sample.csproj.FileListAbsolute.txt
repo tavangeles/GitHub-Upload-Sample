@@ -1,3 +1,8 @@
 C:\Users\c_jmcalalang\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\bin\Debug\GitUpload-Sample.exe.config
 C:\Users\mabilim\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\bin\Debug\GitUpload-Sample.exe.config
-C:\Users\c_jmcalalang\Source\Repos\GitHub-Upload-Sample2\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\bin\Debug\GitUpload-Sample.exe.config
+C:\Users\c_gpangeles\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\bin\Debug\GitUpload-Sample.exe.config
+C:\Users\c_gpangeles\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\bin\Debug\GitUpload-Sample.exe
+C:\Users\c_gpangeles\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\bin\Debug\GitUpload-Sample.pdb
+C:\Users\c_gpangeles\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\obj\Debug\GitUpload-Sample.csprojResolveAssemblyReference.cache
+C:\Users\c_gpangeles\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\obj\Debug\GitUpload-Sample.exe
+C:\Users\c_gpangeles\Source\Repos\GitHub-Upload-Sample\GitUpload-Sample\GitUpload-Sample\GitUpload-Sample\obj\Debug\GitUpload-Sample.pdb
