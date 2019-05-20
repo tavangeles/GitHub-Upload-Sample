@@ -10,22 +10,8 @@ namespace GitUpload_Sample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sample Git Upload");
+            Console.WriteLine("Sample Git Upload1");
             Console.WriteLine("Sample Git Upload2");
-            Console.WriteLine("Sample Git Upload3");
-            Console.WriteLine("Sample Git Upload4");
-            Console.WriteLine("Sample Git Upload5");
-            Console.WriteLine("Sample Git Upload6");
-            Console.WriteLine("Sample Git Upload7");
-            Console.WriteLine("Sample Git Upload8");
-            Console.WriteLine("Sample Git Upload9");
-            Console.WriteLine("Sample Git Upload10");
-            Console.WriteLine("Sample Git Upload11");
-            Console.WriteLine("Sample Git Upload12");
-            Console.WriteLine("Sample Git Upload13");
-            Console.WriteLine("Sample Git Upload14");
-            Console.WriteLine("Sample Git Upload15");
-            Console.WriteLine("Sample Git Upload16");
             Console.ReadLine();
         }
     }
